@@ -11,4 +11,5 @@ El repositorio cuenta con:
 
 
 Aqui el link a la competicion en DrivenData -> [Link](https://www.drivendata.org/competitions/57/nepal-earthquake/)
-Aqui el link aL repo del TP1 -> [Link](https://github.com/EzequielVF/7506-Datos-TP1)
+
+Aqui el link al repo del TP1 -> [Link](https://github.com/EzequielVF/7506-Datos-TP1)
