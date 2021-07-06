@@ -5,7 +5,7 @@
 - Alumno: Paredes Tavara, Rogger Aldair - 97976
 - Alumno: Ezequiel Francisco Vilardo - 104980
 - Materia: [75.06] Organizacion de Datos
-- Fecha de entrega: 17/05/2021
+- Fecha de entrega: 29/07/2021
 ---
 El repositorio cuenta con:
 
