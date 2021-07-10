@@ -16,6 +16,8 @@ RandomForest con Grid -> 0.7110
 
 CatBoost -> 0.7360
 
+XgBoost -> 0.7401
+
 ---
 Aqui el link a la competicion en DrivenData -> [Link](https://www.drivendata.org/competitions/57/nepal-earthquake/)
 
