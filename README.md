@@ -1,7 +1,6 @@
 # 7506-Datos-TP2
 ---
 - Alumno: Amaya, Santos Emanuel - 96891
-- Alumno: Gonzales, Pablo Ariel - 95079
 - Alumno: Paredes Tavara, Rogger Aldair - 97976
 - Alumno: Ezequiel Francisco Vilardo - 104980
 - Materia: [75.06] Organizacion de Datos
