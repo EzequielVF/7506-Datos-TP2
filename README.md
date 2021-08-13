@@ -21,7 +21,7 @@ XgBoost -> 0.7515
 ---
 Aqui el link a la competicion en DrivenData -> [Link](https://www.drivendata.org/competitions/57/nepal-earthquake/)
 
-Aqui el link al repo del TP1 -> [Link](https://github.com/EzequielVF/7506-Datos-TP1)
+Aqui el link al repo del TP1 -> [Link](https://github.com/EzequielVF/95.58-Datos-TP1-FIUBA)
 
 Link a video explicativo -> [Link](https://youtu.be/rzQE9Xh_UqY)
 
