@@ -1,9 +1,9 @@
-# 7506-Datos-TP2
+# 95.58-Datos-TP2-FIUBA
 ---
 - Alumno: Amaya, Santos Emanuel - 96891
 - Alumno: Paredes Tavara, Rogger Aldair - 97976
 - Alumno: Ezequiel Francisco Vilardo - 104980
-- Materia: [75.06] Organizacion de Datos
+- Materia: [95.58] Organizacion de Datos
 - Fecha de entrega: 29/07/2021
 ---
 El repositorio cuenta con:
